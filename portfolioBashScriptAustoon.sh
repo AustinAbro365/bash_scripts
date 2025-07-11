@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #Fun portfilio bash script
 
 #Here is some infomration about me presented in a bash script!
@@ -30,8 +31,8 @@ myStory='I was the team manager of my high school football team and I found that
         The skills I have gained from high end banquet service and coaching has helped me translate well into Software Engineering with pattern recognition, teamwork, and 
         attention to detail skills.'
 
-yes= 'y'
-no= 'no'
+yes='yes'
+no='no'
 
 echo "Hello Everyone, Welcome to my portfolio bash script!"
 
